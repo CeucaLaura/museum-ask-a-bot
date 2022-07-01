@@ -1,0 +1,13 @@
+export default {
+  BOX_SHADOW: "#e4e7ec",
+  DARK: "#2d2d2d",
+  GREY_DARK: "#6F6F6F",
+  GREY_MED: "#929497",
+  INPUT_BG: "#F3F4F6",
+  LINK: "#0077AA",
+  PRIMARY: "#7C80EE",
+  PRIMARY_HOVER: "#8d90e0",
+  RED_ERROR: "#f44336",
+  SCREEN_BACKGROUND: "#F3F8FF",
+  WHITE: "#FFF",
+};
